@@ -1,0 +1,41 @@
+{
+  "identifier" : "Looprow",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21000000",
+      "localizations" : [],
+      "name" : "Looprow Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "2100001",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Multi-project row counter with pattern repeat reminders",
+              "displayName" : "Looprow Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.crochetlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Looprow Pro Monthly",
+          "subscriptionGroupID" : "21000000",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
